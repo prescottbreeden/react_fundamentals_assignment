@@ -11,6 +11,7 @@ import './UserInput/UserInput.css';
 class App extends Component {
 
   /*
+Assignment instructions:
 
 1. Create two new components: user input and user output
 2. userinput should hold an input element, useroutput two paragraphs
@@ -22,7 +23,6 @@ class App extends Component {
 8. Ensure that the new input entered by the user overwrites the old username passed to UserOutput
 9. Add two-way-binding to your input (in UserInput) to also display the startiong username
 10. Add styling of your choice to your components/elements in the components - both with inline styles and stylesheets
-
 
   */
 
